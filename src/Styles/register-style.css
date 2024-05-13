@@ -1,0 +1,49 @@
+.register-page-container {
+    display: flex;
+    color: white;
+}
+
+.register-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.register-all-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-banner-container {
+    display: flex;
+    margin: 1.5em 0 2em 0;
+    align-items: center;
+}
+
+.register-banner-container span {
+    font-weight: bold;
+    font-size: 2.5em;
+    text-align: left;
+    padding-left: 0.25em;
+}
+
+.register-body {
+    padding: 1em 2em 3em 2em;
+    background-color: #1D3461;
+}
+
+.register-header {
+    margin-top: 1em;
+}
+
+.register-apply{
+    margin-top: 2em;
+}
+
+.register-error-msg {
+    margin-top: 2em;
+}
